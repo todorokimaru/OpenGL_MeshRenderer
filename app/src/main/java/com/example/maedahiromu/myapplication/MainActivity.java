@@ -6,7 +6,7 @@ import android.app.Activity;
 import android.opengl.GLSurfaceView;
 import android.content.*;
 
-/* Master Todo****9**1 */
+/* Master Todo****9**1 is pass */
 
 public class MainActivity extends AppCompatActivity {
     private GLSurfaceView glView;
