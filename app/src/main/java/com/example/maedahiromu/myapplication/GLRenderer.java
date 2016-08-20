@@ -47,7 +47,7 @@ public class GLRenderer implements
 
         //モデルの読み込み
         try {
-            model.figure=ObjLoader.load("droid.obj");
+            model.figure=ObjLoader.load("box.obj");
         } catch (Exception e) {
             android.util.Log.e("debug",e.toString());
             for (StackTraceElement ste:e.getStackTrace()) {
